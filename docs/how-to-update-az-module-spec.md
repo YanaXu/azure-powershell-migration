@@ -5,6 +5,8 @@ The Az PowerShell module command and alias specifications are stored in
 
 Occasionally, these should be updated to latest. This document describes how to update the spec to latest.
 
+Add a test line here.
+
 ## Requirements
 
 Have the following installed on your system:
